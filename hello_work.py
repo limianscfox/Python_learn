@@ -1,3 +1,6 @@
 #!/usr/bin/python
+message = "Hello Python word!"
+print (message)
 
-print ("Hello Python word!")
+message = "Hello Python Crash Course word!"
+print (message)
