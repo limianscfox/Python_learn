@@ -1,7 +1,8 @@
 xulies = list(range(1,31))
 xulies_1 = []
+print(xulies)
 for xulei in xulies:
-    if (xulei / 3 == 0):
+    if xulei % 3 == 0:
         print(xulei)
         xulies_1.append(xulei)
         
