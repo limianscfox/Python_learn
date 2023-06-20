@@ -1,4 +1,4 @@
-xulies = list(range(1,31))
+xulies = list(range(1,101))
 xulies_1 = []
 print(xulies)
 for xulei in xulies:
@@ -7,4 +7,3 @@ for xulei in xulies:
         xulies_1.append(xulei)
         
 print(xulies_1)
-    
